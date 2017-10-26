@@ -10,9 +10,9 @@
   strong {
     font-weight: 500;
   }
-    
+
   &--blue {
-    color: $mainBlue; 
+    color: $mainBlue;
   }
 
   &__icon {
